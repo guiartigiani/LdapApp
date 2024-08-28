@@ -33,15 +33,21 @@
 
 
 🛠️ Getting Started
+
 Prerequisites
+
 .NET 6.0 SDK or higher
+
 An operational LDAP server (e.g., OpenLDAP)
 
 Access to Git for cloning the repository
+
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/ldap-xml-processor.git
+
+git clone https://github.com/your-username/LdapApp.git
+
 cd ldap-xml-processor
 
 Install dependencies:
