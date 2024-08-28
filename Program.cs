@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        string ldapPath = "localhost"; // Porta padrão para LDAP é 389
+        string ldapPath = "localhost"; 
         string username = "cn=admin,dc=artigiani,dc=com"; // Atualize com o DN do usuário administrador
         int ldapPort = 389;
         string password = "123"; //

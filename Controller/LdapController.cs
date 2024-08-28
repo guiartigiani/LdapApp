@@ -47,7 +47,6 @@ namespace LdapApplication.Controller
             catch (Exception ex)
             {
                 Console.WriteLine($"Erro ao processar o XML: {ex.Message}");
-                // Log ou manipule a exceção conforme necessário
             }
         }
 
@@ -89,7 +88,6 @@ namespace LdapApplication.Controller
             catch (Exception ex)
             {
                 Console.WriteLine($"Erro ao processar o XML: {ex.Message}");
-                // Log ou manipule a exceção conforme necessário
             }
         }
 
@@ -119,7 +117,6 @@ namespace LdapApplication.Controller
             catch (Exception ex)
             {
                 Console.WriteLine($"Erro ao processar o XML: {ex.Message}");
-                // Log ou manipule a exceção conforme necessário
             }
         }
 
