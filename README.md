@@ -15,14 +15,15 @@
 ## 📂 Project Structure
 
 ```plaintext
-├── src/
+├── LdaApp/
 │   ├── Model/
 │   │   ├── Validador.cs         # XML validation logic
 │   │   └── LdapManager.cs       # LDAP operations management
 │   ├── Controller/
 │   │   └── LdapController.cs    # Handles requests and operations
 │   └── Program.cs               # Main entry point of the application
-├── data/
+|
+├── ArquivosXml/
     ├── AddGrupo1.xml            # Sample XML for adding a group
     ├── AddGrupo2.xml            # Sample XML for adding a group
     ├── AddGrupo3.xml            # Sample XML for adding a group
@@ -48,7 +49,9 @@ dotnet restore
 
 Running the Application
 dotnet run --project src/Program.cs
+
 🤖 Usage
+
 Add/Modify LDAP Entries:
 
 Place your XML files in the data/ directory.
@@ -57,6 +60,7 @@ XML Format: Ensure your XML files follow the required structure for users and gr
 
 
 🌐 Connect
+
 GitHub: @guiartigiani
 
 LinkedIn: [Guilherme Artigiani](https://www.linkedin.com/in/guilherme-artigiani/)
