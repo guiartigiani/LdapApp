@@ -1,0 +1,47 @@
+# Arquivos e pastas do .NET
+*.dll
+*.exe
+*.log
+*.pdb
+*.cache
+*.swp
+*.suo
+*.user
+*.vs/
+.vscode/
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.suo
+*.pdb
+
+# Diretórios de build
+bin/
+obj/
+
+# Configurações de usuário e IDE
+*.userosscache
+*.suo
+*.user
+*.userprefs
+*.suo
+*.ncb
+
+# Outras configurações de IDE
+*.suo
+*.user
+*.userosscache
+*.suo
+*.ncb
+*.pdb
+*.exe
+*.dll
+*.log
+
+# Arquivos temporários do Visual Studio
+.vscode/
+
+# Configurações de publicação
+publish/
