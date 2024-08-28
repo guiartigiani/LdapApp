@@ -55,13 +55,10 @@ Place your XML files in the data/ directory.
 Run the application to process and apply the changes to your LDAP server.
 XML Format: Ensure your XML files follow the required structure for users and groups.
 
-✨ Acknowledgements
-Novell.Directory.Ldap.NETStandard for LDAP operations.
-OpenLDAP for the LDAP server.
 
 🌐 Connect
 GitHub: @guiartigiani
 
-LinkedIn: [Your Name](https://www.linkedin.com/in/guilherme-artigiani/)
+LinkedIn: [Guilherme Artigiani](https://www.linkedin.com/in/guilherme-artigiani/)
 
 Crafted with 💻 by Guilherme Artigiani.
